@@ -1,0 +1,26 @@
+header {
+    
+    color:blueviolet;
+    text-align:center;
+    margin-left = auto;
+    margin-right = auto;
+    padding:23px;
+    font-size:29px;
+    background-color:cyan;
+    width=300px;
+
+}
+main{
+    color:teal;
+    font-size:15px;
+    text-align:center;
+    margin-left = auto;
+    margin-right = auto;
+    padding:23px;
+    background-color:lemonchiffon;
+}
+footer{
+    text-align:center;
+    background-color:lemonchiffon
+
+}
